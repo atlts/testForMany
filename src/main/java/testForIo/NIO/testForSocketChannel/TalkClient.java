@@ -1,13 +1,9 @@
 package testForIo.NIO.testForSocketChannel;
 
-import sun.nio.ch.sctp.SctpNet;
-
 import java.io.IOException;
 import java.net.InetSocketAddress;
-import java.net.Socket;
 import java.nio.channels.SocketChannel;
 import java.util.Scanner;
-
 import static testForIo.NIO.testForSocketChannel.Utils.recvMsg;
 import static testForIo.NIO.testForSocketChannel.Utils.sendMsg;
 
