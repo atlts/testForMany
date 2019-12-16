@@ -1,7 +1,7 @@
-package testForIo.testForSimpleHttp.json;
+package testForIo.testForSimpleHttpByNIO.json;
 
-import testForIo.testForSimpleHttp.json.model.JsonArray;
-import testForIo.testForSimpleHttp.json.model.JsonObject;
+import testForIo.testForSimpleHttpByNIO.json.model.JsonArray;
+import testForIo.testForSimpleHttpByNIO.json.model.JsonObject;
 
 import java.util.List;
 import java.util.Map;

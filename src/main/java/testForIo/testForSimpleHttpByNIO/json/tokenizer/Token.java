@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp.json.tokenizer;
+package testForIo.testForSimpleHttpByNIO.json.tokenizer;
 
 /**
  * json中的基本键值对

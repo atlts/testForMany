@@ -1,9 +1,9 @@
-package testForIo.testForSimpleHttp.json;
+package testForIo.testForSimpleHttpByNIO.json;
 
-import testForIo.testForSimpleHttp.json.parser.Parser;
-import testForIo.testForSimpleHttp.json.tokenizer.CharReader;
-import testForIo.testForSimpleHttp.json.tokenizer.TokenList;
-import testForIo.testForSimpleHttp.json.tokenizer.Tokenizer;
+import testForIo.testForSimpleHttpByNIO.json.parser.Parser;
+import testForIo.testForSimpleHttpByNIO.json.tokenizer.CharReader;
+import testForIo.testForSimpleHttpByNIO.json.tokenizer.TokenList;
+import testForIo.testForSimpleHttpByNIO.json.tokenizer.Tokenizer;
 
 import java.io.IOException;
 import java.io.StringReader;

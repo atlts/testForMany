@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp.json.tokenizer;
+package testForIo.testForSimpleHttpByNIO.json.tokenizer;
 
 import java.io.IOException;
 import java.io.Reader;

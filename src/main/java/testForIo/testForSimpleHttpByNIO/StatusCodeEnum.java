@@ -1,6 +1,4 @@
-package testForIo.testForSimpleHttp;
-
-import javafx.util.Pair;
+package testForIo.testForSimpleHttpByNIO;
 
 /**
  * 服务器响应状态码

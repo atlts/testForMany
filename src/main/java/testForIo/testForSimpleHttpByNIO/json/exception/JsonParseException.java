@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp.json.exception;
+package testForIo.testForSimpleHttpByNIO.json.exception;
 
 public class JsonParseException extends RuntimeException {
     public JsonParseException(String message){

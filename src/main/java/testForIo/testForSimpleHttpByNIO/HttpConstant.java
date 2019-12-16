@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp;
+package testForIo.testForSimpleHttpByNIO;
 
 /**
  * HTTP的两个常量

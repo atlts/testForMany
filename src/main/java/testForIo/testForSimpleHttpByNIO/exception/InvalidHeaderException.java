@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp.exception;
+package testForIo.testForSimpleHttpByNIO.exception;
 
 public class InvalidHeaderException extends RuntimeException{
 

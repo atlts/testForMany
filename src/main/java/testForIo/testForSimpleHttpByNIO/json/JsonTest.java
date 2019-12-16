@@ -1,8 +1,7 @@
-package testForIo.testForSimpleHttp.json;
+package testForIo.testForSimpleHttpByNIO.json;
 
-import testForIo.testForSimpleHttp.json.model.JsonObject;
+import testForIo.testForSimpleHttpByNIO.json.model.JsonObject;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;

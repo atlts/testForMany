@@ -1,6 +1,6 @@
-package testForIo.testForSimpleHttp.json.model;
+package testForIo.testForSimpleHttpByNIO.json.model;
 
-import testForIo.testForSimpleHttp.json.exception.JsonTypeException;
+import testForIo.testForSimpleHttpByNIO.json.exception.JsonTypeException;
 
 import java.util.ArrayList;
 import java.util.HashMap;

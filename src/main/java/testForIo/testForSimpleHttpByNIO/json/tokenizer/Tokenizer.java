@@ -1,6 +1,6 @@
-package testForIo.testForSimpleHttp.json.tokenizer;
+package testForIo.testForSimpleHttpByNIO.json.tokenizer;
 
-import testForIo.testForSimpleHttp.json.exception.JsonParseException;
+import testForIo.testForSimpleHttpByNIO.json.exception.JsonParseException;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp.json.tokenizer;
+package testForIo.testForSimpleHttpByNIO.json.tokenizer;
 
 public enum TokenType {
     BEGIN_OBJECT(1),

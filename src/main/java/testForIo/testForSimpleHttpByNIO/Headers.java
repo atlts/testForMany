@@ -1,4 +1,4 @@
-package testForIo.testForSimpleHttp;
+package testForIo.testForSimpleHttpByNIO;
 
 import java.util.HashMap;
 import java.util.Map;

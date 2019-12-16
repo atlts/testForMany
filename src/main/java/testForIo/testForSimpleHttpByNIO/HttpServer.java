@@ -1,6 +1,6 @@
-package testForIo.testForSimpleHttp;
+package testForIo.testForSimpleHttpByNIO;
 
-import testForIo.testForSimpleHttp.exception.InvalidHeaderException;
+import testForIo.testForSimpleHttpByNIO.exception.InvalidHeaderException;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import java.nio.channels.*;
 import java.time.Instant;
 import java.util.*;
 
-import static testForIo.testForSimpleHttp.StatusCodeEnum.*;
+import static testForIo.testForSimpleHttpByNIO.StatusCodeEnum.*;
 
 /**
  * 显然这就是服务器
